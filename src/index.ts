@@ -1,3 +1,3 @@
-import { solve_2025_2 } from "./2025/2";
+import { solve_2025_3 } from "./2025/3";
 
-console.log(solve_2025_2());
+console.log(solve_2025_3());
